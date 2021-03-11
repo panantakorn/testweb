@@ -17,4 +17,5 @@ $mysqli = new mysqli(hostname,riw,password,dbname);
      echo "Connect success.....";
 }
 $sqltxt = "";
+///
 ?>
